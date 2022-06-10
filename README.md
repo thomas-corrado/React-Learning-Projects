@@ -1,4 +1,4 @@
-# React-0-Learning
+# React-Learning-Projects
 # This is a directory-wide README.md. 
 
 ## Please reference each sub-directory's README.md to learn more about the code within that module. 
